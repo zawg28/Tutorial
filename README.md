@@ -26,3 +26,10 @@ Scrum's system involves intervals of two weeks called **sprints**. At the beginn
 Each task chosen for a specific sprint is put into the **sprint backlog**. This is the pool of tasks that the developers will pull from as they work on the product over the sprint. These tasks are pulled from the **product backlog** which is the pool of tasks that need to be finished in order for the product to be finished.
 
 Each task is given defined completion criteria so everyone can agree upon when the task is finished. This is decided in the meeting along with the sprint backlog. The completion of the sprint is tracked using a **burndown chart** which is posted for everyone to see. The project is transparent from the very beginning to the end.
+
+## Part Three: Why You Should Care
+
+Scrum is becoming an industry standard for IT. Even if you will not be facilitating Scrum meetings or running a team, you will use Scrum in your career. It is important to be familiar with the system you are working in and to be comfortable with its concepts. This will give you an edge in the workforce if you are already familiar with the current industry standards.
+
+Scrum is the most popular Agile methodology used in the industry today, but there are others as well. Even if your particular organization doesn't implement Scrum, odds are it will use an Agile framework of some sort. This means that learning the purpose of Agile and its systems is more important than ever to an aspiring software engineer.
+
